@@ -26,53 +26,54 @@ Overview:
 Develop a task management application using React, Firebase, and either Bootstrap or Tailwind CSS. Users should be able to sign up, log in, add tasks, mark them as complete, and delete them. Firebase Authentication will be used for user management, and Firebase Firestore will store task data.
 
 Requirements:
-Authentication:
 
+- Authentication:
 Users should be able to sign up and log in securely.
 Implement Firebase Authentication for user management.
 Task Management:
 
-Users should be able to add, edit, mark tasks as complete, and delete them.
+- Users should be able to add, edit, mark tasks as complete, and delete them.
 Use Firebase Firestore to store task data and implement CRUD operations.
 User Interface:
 
-Design a clean and intuitive user interface for task management.
+- Design a clean and intuitive user interface for task management.
 Utilize Bootstrap or Tailwind CSS for styling.
 Routing:
 
-Implement navigation between different pages (e.g., login, dashboard, task management) using React Router.
+- Implement navigation between different pages (e.g., login, dashboard, task management) using React Router.
 Error Handling:
-
 
 Conduct thorough testing to ensure all features work as expected.
 Documentation:
 
-Provide clear documentation on how to use the application and any setup instructions.
+- Provide clear documentation on how to use the application and any setup instructions.
+  
 Project Idea 2: Recipe Sharing Platform
-Overview:
+- Overview:
 Create a recipe sharing platform where users can share their favorite recipes. Users should be able to create, edit, and delete recipes. Firebase Authentication will be used for user management, and Firebase Firestore will store recipe data.
 
 Requirements:
-Authentication:
 
+- Authentication:
 Implement user authentication using Firebase Authentication.
 Recipe Management:
 
-Users should be able to create, edit, and delete recipes.
+- Users should be able to create, edit, and delete recipes.
 Use Firebase Firestore to store recipe data and implement CRUD operations.
 User Interface:
 
-Design an appealing and user-friendly interface for browsing and managing recipes.
+- Design an appealing and user-friendly interface for browsing and managing recipes.
 Utilize Bootstrap or Tailwind CSS for styling.
 Search and Filtering:
 
-Implement search and filtering functionality to allow users to find recipes easily.
+- Implement search and filtering functionality to allow users to find recipes easily.
 Social Features:
 
 Allow users to like, comment on, and share recipes.
-Error Handling:
 
-Provide comprehensive documentation on how to use the platform and any setup instructions.
+Error Handling:
+- Provide comprehensive documentation on how to use the platform and any setup instructions.
+  
 Project Idea 3: E-commerce Website
 Overview:
 Develop a simple e-commerce website where users can browse products, add them to the cart, and proceed to checkout. Firebase Firestore will store product information, and Firebase Authentication will handle user management.
