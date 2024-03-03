@@ -1,8 +1,6 @@
 # final-project-semester-a
 
-# Final Project Guidelines
-
-Greetings, web developers! As we near the end of the semester, it's time to put your knowledge and skills in action to build a real-life product. The guidelines for this project are intentionally loose to allow you a lot of flexibility to build something interesting and useful:
+As we near the end of the semester, it's time to put your knowledge and skills in action to build a real-life product. The guidelines for this project are intentionally loose to allow you a lot of flexibility to build something interesting and useful:
 
 - Must have some server-side functionality written in Firebase
 - Must have a clear data model
