@@ -23,7 +23,7 @@ The due date for the final project is midnight, March 10. Please prioritize so t
 
 Project Idea 1: Task Management Application
 Overview:
-Develop a task management application using React, Firebase, and either Bootstrap CSS. Users should be able to sign up, log in, add tasks, mark them as complete, and delete them. Firebase Authentication will be used for user management, and Firebase Firestore will store task data.
+Develop a task management application using JS, Firebase, and either Bootstrap CSS. Users should be able to sign up, log in, add tasks, mark them as complete, and delete them. Firebase Authentication will be used for user management, and Firebase Firestore will store task data.
 
 Requirements:
 
@@ -37,10 +37,10 @@ Use Firebase Firestore to store task data and implement CRUD operations.
 User Interface:
 
 - Design a clean and intuitive user interface for task management.
-Utilize Bootstrap or Tailwind CSS for styling.
+Utilize Bootstrap or  CSS for styling.
 Routing:
 
-- Implement navigation between different pages (e.g., login, dashboard, task management) using React Router.
+- Implement navigation between different pages (e.g., login, dashboard, task management)
 Error Handling:
 
 Conduct thorough testing to ensure all features work as expected.
@@ -63,7 +63,7 @@ Use Firebase Firestore to store recipe data and implement CRUD operations.
 User Interface:
 
 - Design an appealing and user-friendly interface for browsing and managing recipes.
-Utilize Bootstrap or Tailwind CSS for styling.
+Utilize Bootstrap for styling.
 Search and Filtering:
 
 - Implement search and filtering functionality to allow users to find recipes easily.
@@ -97,7 +97,7 @@ Checkout Process:
 User Interface:
 
 - Design an attractive and responsive user interface for the e-commerce website.
-Utilize Bootstrap or Tailwind CSS for styling.
+Utilize Bootstrap or  CSS for styling.
 Payment Integration:
 
 - Integrate a payment gateway (e.g., Stripe) to handle transactions securely.
