@@ -23,7 +23,7 @@ The due date for the final project is midnight, March 10. Please prioritize so t
 
 Project Idea 1: Task Management Application
 Overview:
-Develop a task management application using React, Firebase, and either Bootstrap or Tailwind CSS. Users should be able to sign up, log in, add tasks, mark them as complete, and delete them. Firebase Authentication will be used for user management, and Firebase Firestore will store task data.
+Develop a task management application using React, Firebase, and either Bootstrap CSS. Users should be able to sign up, log in, add tasks, mark them as complete, and delete them. Firebase Authentication will be used for user management, and Firebase Firestore will store task data.
 
 Requirements:
 
