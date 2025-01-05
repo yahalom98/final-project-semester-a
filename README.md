@@ -12,7 +12,7 @@ That's about it for requirements, but chances are your app will require more fea
 - Persistent storage (using a database)
 - Search/querying
 - User authentication
-- Client-side UI frameworks (React)
+- Client-side UI
 - API
 - Responsive Web Design (Bootstrap)
 
