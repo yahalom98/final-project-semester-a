@@ -16,9 +16,6 @@ That's about it for requirements, but chances are your app will require more fea
 - API
 - Responsive Web Design (Bootstrap)
 
-
-The due date for the final project is midnight, March 10. Please prioritize so that your application contains all of the critical features by that time, and work on the optional functionality after the core ones are completed.
-
 ## Here are some ideas you can work on:
 
 Project Idea 1: Task Management Application
